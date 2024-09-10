@@ -1,0 +1,46 @@
+.devara{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_kFL59_we67-1GLBfcjRk1iPaSQBon-eCaw&s);
+    height: 400px;
+    width: 100%;
+    /* text-align: center;
+    text-decoration: 2px underline yellow;
+    text-shadow: 2px 2px blue; */
+}
+.title{
+    color: red;
+    font-size: 50px;text-align: center;
+    text-decoration: 5px underline yellow;
+    text-shadow: 2px 2px blue;
+}
+.p1{
+    color: chartreuse;
+    font-size: 32px;
+    text-shadow: 2px 2px rgb(90, 111, 217) ;
+    text-align: left;
+}
+.p2{
+    color: chartreuse;
+    font-size: 32px;
+    text-shadow: 2px 2px rgb(62, 68, 193) ;
+    text-align: center;
+    padding-top: 60px;
+}
+.p3{
+    color: chartreuse;
+    font-size: 32px;
+    text-shadow: 2px 2px rgb(113, 80, 205) ;
+    text-align: right;
+    padding-top: 60px;
+}
+.item{
+    height: 300px;
+    width: 300px;
+    border:2px solid blue;  
+    margin:14px;
+  background-color:white;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;++
+  /* box-sizing: border-box; */
+    
+}
